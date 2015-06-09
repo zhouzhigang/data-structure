@@ -7,7 +7,8 @@ Data Structures Implementation
 
 * Floating-point
 
-* Character
+* [Character](character/README.md)
+    * [Character in C](character/c/README.md)
 
 
 ## Compsite Types
@@ -20,7 +21,8 @@ Data Structures Implementation
 
 ## Abstract data types
 
-* String
+* [String](string/README.md)
+    * [String in C](string/c/README.md)
 
 * List
 
@@ -45,7 +47,7 @@ Data Structures Implementation
 * [Dictionary of Algorithms and Data Structre - NIST](http://xlinux.nist.gov/dads)
 * [C++ Containers library reference](http://en.cppreference.com/w/cpp/container)
 
-* Course
+### Course
 * [6.851: Advanced Data Structures - MIT](https://courses.csail.mit.edu/6.581/)
 * [CS 361A - Advanced Data Structures And Algorithms - Standford](http://theory.standard.edu/~rajeev/cs361)
 * [CS 598 JGE: Advanced Data Structures - UUIC](http://jeffe.cs.illinois.edu/teaching/datastructures)
