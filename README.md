@@ -13,7 +13,7 @@ Data Structures Implementation
 
 ## Compsite Types
 
-* Array
+* [Array](array/README.md)
 
 * Record/Tuple/Struct/Class
 
