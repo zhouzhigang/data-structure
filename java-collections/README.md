@@ -21,7 +21,7 @@
 General-purpose Implementations
 
 |Interface|Hash table Impl.|Resizable array Impl.|Tree Impl.|Linked list Impl.|Hash table + Linked list Impl.|
-+---------+----------------+---------------------+----------+-----------------+------------------------------+
+|---------|----------------|---------------------|----------|-----------------|------------------------------|
 |`Set`|`HashSet`||`TreeSet`||`LinkedHashSet`|
 |`List`||`ArrayList`||`LinkedList`||
 |`Queue`||||||

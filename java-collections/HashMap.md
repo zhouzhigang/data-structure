@@ -94,7 +94,7 @@ Some other static constants
 
 Basic operations `get` and `put`
 
-`get` method
+### get method
 
     public V get(Object key) {
         Node<K,V> e;
@@ -122,7 +122,7 @@ Basic operations `get` and `put`
     }
 
 
-`put` method
+### put method
 
     // put a specified value in the map, if exist, replaced the old value
     public V put(K key, V value) {
